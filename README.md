@@ -28,6 +28,7 @@ Solutions to problems on CodeEval. Public profile is https://www.codeeval.com/pr
 - MthToLast: https://www.codeeval.com/open_challenge_scores/?pkbid=10
 - MultiplyLists: https://www.codeeval.com/open_challenge_scores/?pkbid=113
 - NonRepeatString: https://www.codeeval.com/open_challenge_scores/?pkbid=12
+- NumberPairs: https://www.codeeval.com/open_challenge_scores/?pkbid=34
 - Pangrams: https://www.codeeval.com/open_challenge_scores/?pkbid=37
 - PascalsTriangle: https://www.codeeval.com/open_challenge_scores/?pkbid=66
 - PassTriangle: https://www.codeeval.com/open_challenge_scores/?pkbid=89
@@ -45,4 +46,12 @@ Solutions to problems on CodeEval. Public profile is https://www.codeeval.com/pr
 - TelephoneWords: https://www.codeeval.com/open_challenge_scores/?pkbid=59
 - TextToNumber: https://www.codeeval.com/open_challenge_scores/?pkbid=110
 - ValidateParentheses: https://www.codeeval.com/open_challenge_scores/?pkbid=68
+- evenodd: https://www.codeeval.com/open_challenge_scores/?pkbid=100
+- nthfibonacci: https://www.codeeval.com/open_challenge_scores/?pkbid=22
+- printOdd: https://www.codeeval.com/open_challenge_scores/?pkbid=25
+- reverseWords: https://www.codeeval.com/open_challenge_scores/?pkbid=8
+- stringPermutation: https://www.codeeval.com/open_challenge_scores/?pkbid=14
 - stackInterface: https://www.codeeval.com/open_challenge_scores/?pkbid=9
+- stringPermutation: https://www.codeeval.com/open_challenge_scores/?pkbid=14
+- trailingString: https://www.codeeval.com/open_challenge_scores/?pkbid=32
+
