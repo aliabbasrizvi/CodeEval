@@ -10,14 +10,14 @@ Solutions to problems on CodeEval. Public profile is https://www.codeeval.com/pr
 - CompressedSequence: https://www.codeeval.com/open_challenge_scores/?pkbid=128
 - ComputePrefix: https://www.codeeval.com/open_challenge_scores/?pkbid=7
 - DecToBin: https://www.codeeval.com/open_challenge_scores/?pkbid=27
-- DecodeNumbers:
+- DecodeNumbers: https://www.codeeval.com/open_challenge_scores/?pkbid=73
 - Endianes: https://www.codeeval.com/open_challenge_scores/?pkbid=15
 - FileSize: https://www.codeeval.com/open_challenge_scores/?pkbid=26
 - FindSquare: https://www.codeeval.com/open_challenge_scores/?pkbid=101
 - FizzBuzz: https://www.codeeval.com/open_challenge_scores/?pkbid=1
 - GenerateRoman: https://www.codeeval.com/open_challenge_scores/?pkbid=106
 - JollyJumpers: https://www.codeeval.com/open_challenge_scores/?pkbid=43
-- LargestSum: 
+- LargestSum: https://www.codeeval.com/open_challenge_scores/?pkbid=17
 - LongestCommonSubsequence: https://www.codeeval.com/open_challenge_scores/?pkbid=6
 - MajorElement: https://www.codeeval.com/open_challenge_scores/?pkbid=132
 - MinPathSum: https://www.codeeval.com/open_challenge_scores/?pkbid=72
