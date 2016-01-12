@@ -4,8 +4,9 @@ CodeEval
 Solutions to problems on CodeEval. Public profile is https://www.codeeval.com/profile/ali
 
 - ArrayAbsurdity: https://www.codeeval.com/open_challenge_scores/?pkbid=41
-- BitCounter:
+- BitCounter: https://www.codeeval.com/open_challenge_scores/?pkbid=16
 - BitPositions: https://www.codeeval.com/open_challenge_scores/?pkbid=19
+- CashRegister: https://www.codeeval.com/open_challenge_scores/?pkbid=54
 - ClimbingStairs: https://www.codeeval.com/open_challenge_scores/?pkbid=64
 - CompressedSequence: https://www.codeeval.com/open_challenge_scores/?pkbid=128
 - ComputePrefix: https://www.codeeval.com/open_challenge_scores/?pkbid=7
@@ -19,11 +20,13 @@ Solutions to problems on CodeEval. Public profile is https://www.codeeval.com/pr
 - JollyJumpers: https://www.codeeval.com/open_challenge_scores/?pkbid=43
 - LargestSum: https://www.codeeval.com/open_challenge_scores/?pkbid=17
 - LongestCommonSubsequence: https://www.codeeval.com/open_challenge_scores/?pkbid=6
+- LowestUniqueNumber: https://www.codeeval.com/open_challenge_scores/?pkbid=103
 - MajorElement: https://www.codeeval.com/open_challenge_scores/?pkbid=132
 - MinPathSum: https://www.codeeval.com/open_challenge_scores/?pkbid=72
 - MineSweeper: https://www.codeeval.com/open_challenge_scores/?pkbid=79
 - MorseCodeDecryptor: https://www.codeeval.com/open_challenge_scores/?pkbid=116
 - MthToLast: https://www.codeeval.com/open_challenge_scores/?pkbid=10
+- MultiplyLists: https://www.codeeval.com/open_challenge_scores/?pkbid=113
 - NonRepeatString: https://www.codeeval.com/open_challenge_scores/?pkbid=12
 - Pangrams: https://www.codeeval.com/open_challenge_scores/?pkbid=37
 - PascalsTriangle: https://www.codeeval.com/open_challenge_scores/?pkbid=66
@@ -36,6 +39,7 @@ Solutions to problems on CodeEval. Public profile is https://www.codeeval.com/pr
 - SpiralPattern: https://www.codeeval.com/open_challenge_scores/?pkbid=57
 - SplittedNumber: https://www.codeeval.com/open_challenge_scores/?pkbid=131
 - StringRotation: https://www.codeeval.com/open_challenge_scores/?pkbid=76
+- Sudoku: https://www.codeeval.com/open_challenge_scores/?pkbid=78
 - SumOfDigits: https://www.codeeval.com/open_challenge_scores/?pkbid=21
 - SumToZero: https://www.codeeval.com/open_challenge_scores/?pkbid=81
 - TelephoneWords: https://www.codeeval.com/open_challenge_scores/?pkbid=59
