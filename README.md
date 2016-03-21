@@ -1,7 +1,7 @@
 CodeEval
 ========
 
-Solutions to problems on CodeEval. Public profile is https://www.codeeval.com/profile/ali
+Solutions to problems on CodeEval. Public profile can be accessed here: https://www.codeeval.com/profile/ali
 
 ### Easy
 - BitPositions: https://www.codeeval.com/open_challenges/19
