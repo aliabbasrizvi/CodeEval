@@ -3,7 +3,10 @@ CodeEval
 
 Solutions to problems on CodeEval. Public profile can be accessed here: https://www.codeeval.com/profile/ali
 
+
 ### Easy
+
+##### Java
 - BitPositions: https://www.codeeval.com/open_challenges/19
 - CompressedSequence: https://www.codeeval.com/open_challenges/128
 - FileSize: https://www.codeeval.com/open_challenges/26
@@ -16,15 +19,23 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - RightMost: https://www.codeeval.com/open_challenges/31
 - SplittedNumber: https://www.codeeval.com/open_challenges/131
 - SumOfDigits: https://www.codeeval.com/open_challenges/21
+
+##### C
 - evenodd: https://www.codeeval.com/open_challenges/100
-- lowercase: https://www.codeeval.com/open_challenges/20
-- longest_word: https://www.codeeval.com/open_challenges/111
 - nthfibonacci: https://www.codeeval.com/open_challenges/22
-- penultimate_word: https://www.codeeval.com/open_challenges/92
 - printOdd: https://www.codeeval.com/open_challenges/25
 - reverseWords: https://www.codeeval.com/open_challenges/8
 
+##### Python
+- longest_word: https://www.codeeval.com/open_challenges/111
+- lowercase: https://www.codeeval.com/open_challenges/20
+- penultimate_word: https://www.codeeval.com/open_challenges/92
+- set_intersection: https://www.codeeval.com/open_challenges/30
+
+
 ### Medium
+
+##### Java
 - ArrayAbsurdity: https://www.codeeval.com/open_challenges/41
 - BitCounter: https://www.codeeval.com/open_challenges/16
 - CashRegister: https://www.codeeval.com/open_challenges/54
@@ -47,10 +58,15 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - Sudoku: https://www.codeeval.com/open_challenges/78
 - SumToZero: https://www.codeeval.com/open_challenges/81
 - ValidateParentheses: https://www.codeeval.com/open_challenges/68
+
+##### C
 - stackInterface: https://www.codeeval.com/open_challenges/9
 - trailingString: https://www.codeeval.com/open_challenges/32
 
+
 ### Hard
+
+##### Java
 - ClimbingStairs: https://www.codeeval.com/open_challenges/64
 - ComputePrefix: https://www.codeeval.com/open_challenges/7
 - LongestCommonSubsequence: https://www.codeeval.com/open_challenges/6
@@ -60,4 +76,6 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - SpiralPattern: https://www.codeeval.com/open_challenges/57
 - TelephoneWords: https://www.codeeval.com/open_challenges/59
 - TextToNumber: https://www.codeeval.com/open_challenges/110
+
+##### C
 - stringPermutation: https://www.codeeval.com/open_challenges/14
