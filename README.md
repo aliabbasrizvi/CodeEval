@@ -17,7 +17,10 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - SplittedNumber: https://www.codeeval.com/open_challenges/131
 - SumOfDigits: https://www.codeeval.com/open_challenges/21
 - evenodd: https://www.codeeval.com/open_challenges/100
+- lowercase: https://www.codeeval.com/open_challenges/20
+- longest_word: https://www.codeeval.com/open_challenges/111
 - nthfibonacci: https://www.codeeval.com/open_challenges/22
+- penultimate_word: https://www.codeeval.com/open_challenges/92
 - printOdd: https://www.codeeval.com/open_challenges/25
 - reverseWords: https://www.codeeval.com/open_challenges/8
 
