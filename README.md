@@ -28,6 +28,7 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 
 ##### Python
 - calculate_distance: https://www.codeeval.com/open_challenges/99
+- compare_points: https://www.codeeval.com/open_challenges/192
 - longest_word: https://www.codeeval.com/open_challenges/111
 - lowercase: https://www.codeeval.com/open_challenges/20
 - penultimate_word: https://www.codeeval.com/open_challenges/92
