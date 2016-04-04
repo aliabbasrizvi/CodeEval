@@ -64,6 +64,9 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - stackInterface: https://www.codeeval.com/open_challenges/9
 - trailingString: https://www.codeeval.com/open_challenges/32
 
+##### Python
+- 2048: https://www.codeeval.com/open_challenges/194
+
 
 ### Hard
 
