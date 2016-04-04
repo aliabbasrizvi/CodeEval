@@ -20,10 +20,24 @@ def format_for_printing(grid):
 
   return '|'.join(row_strings)
 
+def get_next_iteration(rows, direction, grid):
+  if direction == UP:
+    pass
+
+  if direction == DOWN:
+    pass
+
+  if direction == RIGHT:
+    pass
+
+  if direction == LEFT:
+    pass
+
 def get_solution(test_case):
   direction, rows, data = (test_data.strip() for test_data in test_case.split(';'))
   current_grid = generate_grid(data)
-  return format_for_printing(current_grid)
+  next_grid = get_next_iteration(rows, direction, current_grid)
+  return format_for_printing(next_grid)
 
 with open(sys.argv[1], 'r') as test_cases:
   for test_case in test_cases:
