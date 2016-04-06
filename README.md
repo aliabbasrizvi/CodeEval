@@ -35,6 +35,7 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - longest_word: https://www.codeeval.com/open_challenges/111
 - lowercase: https://www.codeeval.com/open_challenges/20
 - max_range_sum: https://www.codeeval.com/open_challenges/186
+- not_so_clever: https://www.codeeval.com/open_challenges/232
 - penultimate_word: https://www.codeeval.com/open_challenges/92
 - self_describing: https://www.codeeval.com/open_challenges/40
 - set_intersection: https://www.codeeval.com/open_challenges/30
