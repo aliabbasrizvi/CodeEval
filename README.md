@@ -21,10 +21,13 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - SumOfDigits: https://www.codeeval.com/open_challenges/21
 
 ##### C
+- capitalizeWords: https://www.codeeval.com/open_challenges/93
 - evenodd: https://www.codeeval.com/open_challenges/100
+- nModM: https://www.codeeval.com/open_challenges/62
 - nthfibonacci: https://www.codeeval.com/open_challenges/22
 - printOdd: https://www.codeeval.com/open_challenges/25
 - reverseWords: https://www.codeeval.com/open_challenges/8
+- sumOfIntegers: https://www.codeeval.com/open_challenges/24
 
 ##### Python
 - calculate_distance: https://www.codeeval.com/open_challenges/99
@@ -64,6 +67,7 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - ValidateParentheses: https://www.codeeval.com/open_challenges/68
 
 ##### C
+- minimumCoins: https://www.codeeval.com/open_challenges/74
 - stackInterface: https://www.codeeval.com/open_challenges/9
 - trailingString: https://www.codeeval.com/open_challenges/32
 
