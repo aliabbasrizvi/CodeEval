@@ -74,7 +74,7 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 
 ##### Python
 - 2048: https://www.codeeval.com/open_challenges/194
-
+- reverse_and_add: https://www.codeeval.com/open_challenges/45
 
 ### Hard
 
