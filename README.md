@@ -40,6 +40,7 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - penultimate_word: https://www.codeeval.com/open_challenges/92
 - self_describing: https://www.codeeval.com/open_challenges/40
 - set_intersection: https://www.codeeval.com/open_challenges/30
+- stepwise_word: https://www.codeeval.com/open_challenges/202
 
 
 ### Medium
@@ -77,7 +78,6 @@ Solutions to problems on CodeEval. Public profile can be accessed here: https://
 - 2048: https://www.codeeval.com/open_challenges/194
 - longest_lines: https://www.codeeval.com/open_challenges/2
 - reverse_and_add: https://www.codeeval.com/open_challenges/45
-- stepwise_word: https://www.codeeval.com/open_challenges/202
 - uri_comparison: https://www.codeeval.com/open_challenges/80
 
 
