@@ -31,11 +31,11 @@ Solutions to problems from CodeEval which has shut down now.
 
 ##### Python
 - calculate_distance: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/099-calculate-distance
-- compare_points: hhttps://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/192-compare-points
+- compare_points: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/192-compare-points
 - delta_time: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/166-delta-time
 - longest_word: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/111-longest-word
 - lowercase: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/020-lowercase
-- max_range_sum: hhttps://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/186-max-range-sum
+- max_range_sum: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/186-max-range-sum
 - not_so_clever: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/232-not-so-clever
 - penultimate_word: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/092-penultimate-word
 - self_describing: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/040-self-describing-numbers
@@ -48,7 +48,7 @@ Solutions to problems from CodeEval which has shut down now.
 ##### Java
 - ArrayAbsurdity: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/041-array-absurdity
 - BitCounter: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/016-number-of-ones
-- CashRegister: hhttps://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/054-cash-register
+- CashRegister: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/054-cash-register
 - DecToBin: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/027-decimal-to-binary
 - DecodeNumbers: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/073-decode-numbers
 - Endianes: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/015-endianness
