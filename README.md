@@ -1,98 +1,98 @@
 CodeEval
 ========
 
-Solutions to problems on CodeEval. Public profile can be accessed here: https://www.codeeval.com/profile/ali
+Solutions to problems from CodeEval which has shut down now.
 
 
 ### Easy
 
 ##### Java
-- BitPositions: https://www.codeeval.com/open_challenges/19
-- CompressedSequence: https://www.codeeval.com/open_challenges/128
-- FileSize: https://www.codeeval.com/open_challenges/26
-- FizzBuzz: https://www.codeeval.com/open_challenges/1
-- GenerateRoman: https://www.codeeval.com/open_challenges/106
-- LowestUniqueNumber: https://www.codeeval.com/open_challenges/103
-- MajorElement: https://www.codeeval.com/open_challenges/132
-- MorseCodeDecryptor: https://www.codeeval.com/open_challenges/116
-- MultiplyLists: https://www.codeeval.com/open_challenges/113
-- RightMost: https://www.codeeval.com/open_challenges/31
-- SplittedNumber: https://www.codeeval.com/open_challenges/131
-- SumOfDigits: https://www.codeeval.com/open_challenges/21
+- BitPositions: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/019-bit-positions
+- CompressedSequence: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/128-compressed-sequence
+- FileSize: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/026-file-size
+- FizzBuzz: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/001-fizz-buzz
+- GenerateRoman: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/106-roman-numerals
+- LowestUniqueNumber: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/103-lowest-unique-number
+- MajorElement: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/132-the-major-element
+- MorseCodeDecryptor: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/116-morse-code
+- MultiplyLists: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/113-multiply-lists
+- RightMost: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/031-rightmost-char
+- SplittedNumber: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/131-split-the-number
+- SumOfDigits: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/021-sum-of-digits
 
 ##### C
-- capitalizeWords: https://www.codeeval.com/open_challenges/93
-- evenodd: https://www.codeeval.com/open_challenges/100
-- nModM: https://www.codeeval.com/open_challenges/62
-- nthfibonacci: https://www.codeeval.com/open_challenges/22
-- printOdd: https://www.codeeval.com/open_challenges/25
-- reverseWords: https://www.codeeval.com/open_challenges/8
-- sumOfIntegers: https://www.codeeval.com/open_challenges/24
+- capitalizeWords: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/093-capitalize-words
+- evenodd: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/100-even-numbers
+- nModM: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/062-n-mod-m
+- nthfibonacci: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/022-fibonacci-series
+- printOdd: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/025-odd-numbers
+- reverseWords: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/008-reverse-words
+- sumOfIntegers: https://github.com/rdtsc/codeeval-problem-statements/tree/master/easy/024-sum-of-integers-from-file
 
 ##### Python
-- calculate_distance: https://www.codeeval.com/open_challenges/99
-- compare_points: https://www.codeeval.com/open_challenges/192
-- delta_time: https://www.codeeval.com/open_challenges/166
-- longest_word: https://www.codeeval.com/open_challenges/111
-- lowercase: https://www.codeeval.com/open_challenges/20
-- max_range_sum: https://www.codeeval.com/open_challenges/186
-- not_so_clever: https://www.codeeval.com/open_challenges/232
-- penultimate_word: https://www.codeeval.com/open_challenges/92
-- self_describing: https://www.codeeval.com/open_challenges/40
-- set_intersection: https://www.codeeval.com/open_challenges/30
-- stepwise_word: https://www.codeeval.com/open_challenges/202
+- calculate_distance: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/099-calculate-distance
+- compare_points: hhttps://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/192-compare-points
+- delta_time: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/166-delta-time
+- longest_word: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/111-longest-word
+- lowercase: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/020-lowercase
+- max_range_sum: hhttps://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/186-max-range-sum
+- not_so_clever: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/232-not-so-clever
+- penultimate_word: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/092-penultimate-word
+- self_describing: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/040-self-describing-numbers
+- set_intersection: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/030-set-intersection
+- stepwise_word: https://github.com/rdtsc/codeeval-problem-statements/blob/master/easy/202-stepwise-word
 
 
 ### Medium
 
 ##### Java
-- ArrayAbsurdity: https://www.codeeval.com/open_challenges/41
-- BitCounter: https://www.codeeval.com/open_challenges/16
-- CashRegister: https://www.codeeval.com/open_challenges/54
-- DecToBin: https://www.codeeval.com/open_challenges/27
-- DecodeNumbers: https://www.codeeval.com/open_challenges/73
-- Endianes: https://www.codeeval.com/open_challenges/15
-- FindSquare: https://www.codeeval.com/open_challenges/101
-- JollyJumpers: https://www.codeeval.com/open_challenges/43
-- LargestSum: https://www.codeeval.com/open_challenges/17
-- MthToLast: https://www.codeeval.com/open_challenges/10
-- NonRepeatString: https://www.codeeval.com/open_challenges/12
-- NumberPairs: https://www.codeeval.com/open_challenges/34
-- Pangrams: https://www.codeeval.com/open_challenges/37
-- PascalsTriangle: https://www.codeeval.com/open_challenges/66
-- PassTriangle: https://www.codeeval.com/open_challenges/89
-- PointsInCircle: https://www.codeeval.com/open_challenges/98
-- PredictTheNumber: https://www.codeeval.com/open_challenges/125
-- RemoveCharacters: https://www.codeeval.com/open_challenges/13
-- StringRotation: https://www.codeeval.com/open_challenges/76
-- Sudoku: https://www.codeeval.com/open_challenges/78
-- SumToZero: https://www.codeeval.com/open_challenges/81
-- ValidateParentheses: https://www.codeeval.com/open_challenges/68
+- ArrayAbsurdity: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/041-array-absurdity
+- BitCounter: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/016-number-of-ones
+- CashRegister: hhttps://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/054-cash-register
+- DecToBin: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/027-decimal-to-binary
+- DecodeNumbers: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/073-decode-numbers
+- Endianes: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/015-endianness
+- FindSquare: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/101-find-a-square
+- JollyJumpers: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/043-jolly-jumpers
+- LargestSum: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/017-sum-of-integers
+- MthToLast: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/010-mth-to-last-element
+- NonRepeatString: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/012-first-non-repeated-character
+- NumberPairs: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/034-number-pairs
+- Pangrams: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/037-pangrams
+- PascalsTriangle: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/066-pascals-triangle
+- PassTriangle: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/089-pass-triangle
+- PointsInCircle: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/098-point-in-circle
+- PredictTheNumber: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/125-predict-the-number
+- RemoveCharacters: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/013-remove-characters
+- StringRotation: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/076-string-rotation
+- Sudoku: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/078-sudoku
+- SumToZero: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/081-sum-to-zero
+- ValidateParentheses: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/068-valid-parentheses
 
 ##### C
-- minimumCoins: https://www.codeeval.com/open_challenges/74
-- stackInterface: https://www.codeeval.com/open_challenges/9
-- trailingString: https://www.codeeval.com/open_challenges/32
+- minimumCoins: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/074-minimum-coins
+- stackInterface: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/009-stack-implementation
+- trailingString: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/032-trailing-string
 
 ##### Python
-- 2048: https://www.codeeval.com/open_challenges/194
-- longest_lines: https://www.codeeval.com/open_challenges/2
-- reverse_and_add: https://www.codeeval.com/open_challenges/45
-- uri_comparison: https://www.codeeval.com/open_challenges/80
+- 2048: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/194-twenty-forty-eight
+- longest_lines: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/002-longest-lines
+- reverse_and_add: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/045-reverse-and-add
+- uri_comparison: https://github.com/rdtsc/codeeval-problem-statements/blob/master/moderate/080-uri-comparison
 
 
 ### Hard
 
 ##### Java
-- ClimbingStairs: https://www.codeeval.com/open_challenges/64
-- ComputePrefix: https://www.codeeval.com/open_challenges/7
-- LongestCommonSubsequence: https://www.codeeval.com/open_challenges/6
-- MineSweeper: https://www.codeeval.com/open_challenges/79
-- MinPathSum: https://www.codeeval.com/open_challenges/72
-- RobotMovements: https://www.codeeval.com/open_challenges/56
-- SpiralPattern: https://www.codeeval.com/open_challenges/57
-- TelephoneWords: https://www.codeeval.com/open_challenges/59
-- TextToNumber: https://www.codeeval.com/open_challenges/110
+- ClimbingStairs: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/064-climbing-stairs
+- ComputePrefix: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/007-prefix-expressions
+- LongestCommonSubsequence: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/006-longest-common-subsequence
+- MineSweeper: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/079-minesweeper
+- MinPathSum: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/072-minimum-path-sum
+- RobotMovements: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/056-robot-movements
+- SpiralPattern: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/057-spiral-printing
+- TelephoneWords: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/059-telephone-words
+- TextToNumber: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/110-text-to-number
 
 ##### C
-- stringPermutation: https://www.codeeval.com/open_challenges/14
+- stringPermutation: https://github.com/rdtsc/codeeval-problem-statements/blob/master/hard/014-string-permutations
